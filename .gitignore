@@ -1,0 +1,10 @@
+# Ignorar archivos innecesarios
+
+# Archivos temporales
+*.pyc
+__pycache__/
+
+# Archivos sencibles
+*Data
+Extras
+env.py
