@@ -93,7 +93,7 @@ def predict(request: PredictionResquest):
         return {
             "country": request.country,
             "year": request.year,
-            "predicted_co2": round(prediction, 2)
+            "predicted_co2": f"{round(prediction, 2)} MtCO₂"
         }
 
     except Exception as e:
