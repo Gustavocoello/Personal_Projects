@@ -1,4 +1,5 @@
-<h1 align=center # 📚 Personal Projects Repository></h1>
+<h1 align="center">📚 Personal Projects Repository</h1>
+
 <p  align=center><img src=Docs/Banner-1.png></p>
 
 ## Overview 🚀
@@ -13,6 +14,7 @@ Welcome to my personal projects repository! This repository is a collection of v
  - ***[In development🚧](#in-development)*** <!-- Nuevo punto -->
 
 ##### *Each folder will have a tutorial and a readme*
+
 
 
 
@@ -35,7 +37,7 @@ This section is dedicated to machine learning projects. It includes implementati
 
 ### 📄 In development
 This section is a work in progress. I am currently working on adding more folders and content to this repository. Stay tuned for updates!
--------
+
 
 ## 🚀 Future Projects
 As I continue to learn and grow, I will be adding more folders and projects to this repository. Stay tuned for updates on new topics and areas of study!
