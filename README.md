@@ -1,7 +1,7 @@
+<h1 align=center # 📚 Personal Projects Repository>
+<p  align=center><img src=Docs/Banner-1.png></p>
 
-<p align=center><img src=Docs/Banner-1.png></p>
-
-# 📚 Personal Projects Repository
+## Overview 🚀
 
 Welcome to my personal projects repository! This repository is a collection of various projects that I have worked on as part of my learning journey in the fields of databases, Python programming, and machine learning. Each folder represents a different area of study and contains multiple projects and exercises.
 
@@ -11,6 +11,11 @@ Welcome to my personal projects repository! This repository is a collection of v
  - ***[Python](#01-python)***
  - ***[Machine Learning](#02-machine-learning)*** 
  - ***[In development🚧](#in-development)*** <!-- Nuevo punto -->
+
+#### *Each folder will have a tutorial and a readme*
+
+
+
 
 ### [DATA BASE](/00%20-%20BASES%20DE%20DATOS/)
 This folder contains projects related to databases. Here, you will find my work on database design, SQL queries, and performance optimization. 
@@ -48,9 +53,9 @@ git clone https://github.com/Gustavocoello/Personal_Projects
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out. 
 
 You can contact me through my:
-> [GitHub profile](https://github.com/Gustavocoello).
-> [LinkdIn](www.linkedin.com/in/gustavo-coello-01039b270)
-> [Gmail](coellog634@gmail.com)
+>[GitHub profile](https://github.com/Gustavocoello)
+>[LinkdIn](www.linkedin.com/in/gustavo-coello-01039b270)
+>[Gmail](coellog634@gmail.com)
 ---
 
 Thank you for visiting my repository! I hope you find my projects interesting and informative.
