@@ -7,21 +7,20 @@ Welcome to my personal projects repository! This repository is a collection of v
 
 
 ## 🗂 Repository Structure
-> - ***[Bases de Datos](#00-bases-de-datos)***
-> - ***[Python](#01-python)***
-> - ***[Machine Learning](#02-machine-learning)*** 
+ - ***[Bases de Datos](#00-bases-de-datos)***
+ - ***[Python](#01-python)***
+ - ***[Machine Learning](#02-machine-learning)*** 
+ - ***[In development🚧](#in-development)*** <!-- Nuevo punto -->
 
-### 00 - BASES DE DATOS
-This folder contains projects related to databases. Here, you will find my work on database design, SQL queries, and performance optimization. These projects demonstrate my understanding of fundamental database concepts and my ability to apply them in practical scenarios.
+### [DATA BASE](/Remoto/00%20-%20BASES%20DE%20DATOS/)
+This folder contains projects related to databases. Here, you will find my work on database design, SQL queries, and performance optimization. 
 
-### 01 - PYTHON
-This section contains projects written in Python. From basic syntax and programming principles to advanced topics like object-oriented programming and working with popular libraries and frameworks, this section showcases my proficiency in Python programming.
+### [PYTHON](/Remoto/01%20-%20PYTHON/)
+This section contains projects written in Python. From basic syntax and programming principles to advanced topics like object-oriented programming and technical tests
 
-#### Subfolders
-- **📄 README.md**: Documentation for Python projects.
 
-### 02 - MACHINE LEARNING
-This section is dedicated to machine learning projects. It includes implementations of various machine learning algorithms, data preprocessing techniques, and model evaluation methods. These projects highlight my skills in building and deploying machine learning models.
+### [MACHINE LEARNING](/Remoto/02%20-%20MACHINE%20LEARNING/)
+This section is dedicated to machine learning projects. It includes implementations of various machine learning algorithms, data preprocessing techniques, and model evaluation methods.
 
 #### Subfolders
 - **📁 Classification**: Projects related to classification algorithms.
@@ -29,8 +28,8 @@ This section is dedicated to machine learning projects. It includes implementati
 - **📁 Regression**: Projects involving regression algorithms.
 - **📄 Tutorial_Sklearn.ipynb**: A Jupyter Notebook tutorial on using Scikit-learn for machine learning tasks.
 
-### 📄 Docs
-This folder contains documentation related to the projects in this repository. It includes detailed explanations, guides, and notes that complement the code and help in understanding the projects better.
+### 📄 In development
+This section is a work in progress. I am currently working on adding more folders and content to this repository. Stay tuned for updates!
 
 ## 🚀 Future Projects
 As I continue to learn and grow, I will be adding more folders and projects to this repository. Stay tuned for updates on new topics and areas of study!
