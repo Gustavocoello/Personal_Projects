@@ -5,9 +5,11 @@
 
 Welcome to my personal projects repository! This repository is a collection of various projects that I have worked on as part of my learning journey in the fields of databases, Python programming, and machine learning. Each folder represents a different area of study and contains multiple projects and exercises.
 
-![Learning Journey](https://via.placeholder.com/800x200.png?text=Learning+Journey)
 
 ## 🗂 Repository Structure
+> - ***[Bases de Datos](#00-bases-de-datos)***
+> - ***[Python](#01-python)***
+> - ***[Machine Learning](#02-machine-learning)*** 
 
 ### 00 - BASES DE DATOS
 This folder contains projects related to databases. Here, you will find my work on database design, SQL queries, and performance optimization. These projects demonstrate my understanding of fundamental database concepts and my ability to apply them in practical scenarios.
