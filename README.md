@@ -12,14 +12,14 @@ Welcome to my personal projects repository! This repository is a collection of v
  - ***[Machine Learning](#02-machine-learning)*** 
  - ***[In development🚧](#in-development)*** <!-- Nuevo punto -->
 
-### [DATA BASE](/Remoto/00%20-%20BASES%20DE%20DATOS/)
+### [DATA BASE](/00%20-%20BASES%20DE%20DATOS/)
 This folder contains projects related to databases. Here, you will find my work on database design, SQL queries, and performance optimization. 
 
-### [PYTHON](/Remoto/01%20-%20PYTHON/)
+### [PYTHON](/01%20-%20PYTHON/)
 This section contains projects written in Python. From basic syntax and programming principles to advanced topics like object-oriented programming and technical tests
 
 
-### [MACHINE LEARNING](/Remoto/02%20-%20MACHINE%20LEARNING/)
+### [MACHINE LEARNING](/02%20-%20MACHINE%20LEARNING/)
 This section is dedicated to machine learning projects. It includes implementations of various machine learning algorithms, data preprocessing techniques, and model evaluation methods.
 
 #### Subfolders
