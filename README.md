@@ -30,6 +30,7 @@ This section is dedicated to machine learning projects. It includes implementati
 
 ### 📄 In development
 This section is a work in progress. I am currently working on adding more folders and content to this repository. Stay tuned for updates!
+-------
 
 ## 🚀 Future Projects
 As I continue to learn and grow, I will be adding more folders and projects to this repository. Stay tuned for updates on new topics and areas of study!
@@ -37,9 +38,19 @@ As I continue to learn and grow, I will be adding more folders and projects to t
 ## 🤝 How to Contribute
 If you are interested in contributing to any of these projects, feel free to fork the repository and submit pull requests. Contributions are always welcome and appreciated!
 
-## 📬 Contact
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out. You can contact me through my [GitHub profile](https://github.com/Gustavocoello).
+1. Clone the repository:
+```bash
+git clone https://github.com/Gustavocoello/Personal_Projects
+```
 
+
+## 📬 Contact
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out. 
+
+You can contact me through my:
+> [GitHub profile](https://github.com/Gustavocoello).
+> [LinkdIn](www.linkedin.com/in/gustavo-coello-01039b270)
+> [Gmail](coellog634@gmail.com)
 ---
 
 Thank you for visiting my repository! I hope you find my projects interesting and informative.
