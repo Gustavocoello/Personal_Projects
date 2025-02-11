@@ -1,4 +1,4 @@
-<h1 align=center # 📚 Personal Projects Repository>
+<h1 align=center # 📚 Personal Projects Repository></h1>
 <p  align=center><img src=Docs/Banner-1.png></p>
 
 ## Overview 🚀
@@ -12,7 +12,7 @@ Welcome to my personal projects repository! This repository is a collection of v
  - ***[Machine Learning](#02-machine-learning)*** 
  - ***[In development🚧](#in-development)*** <!-- Nuevo punto -->
 
-#### *Each folder will have a tutorial and a readme*
+##### *Each folder will have a tutorial and a readme*
 
 
 
@@ -53,9 +53,9 @@ git clone https://github.com/Gustavocoello/Personal_Projects
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out. 
 
 You can contact me through my:
->[GitHub profile](https://github.com/Gustavocoello)
->[LinkdIn](www.linkedin.com/in/gustavo-coello-01039b270)
->[Gmail](coellog634@gmail.com)
+> - [GitHub profile](https://github.com/Gustavocoello) 
+> - [LinkdIn](www.linkedin.com/in/gustavo-coello-01039b270)
+> - [Gmail](coellog634@gmail.com)
 ---
 
 Thank you for visiting my repository! I hope you find my projects interesting and informative.
